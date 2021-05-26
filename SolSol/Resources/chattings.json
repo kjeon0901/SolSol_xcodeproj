@@ -1,0 +1,18 @@
+[
+    {
+        "id": 101,
+        "chatName": "chopper_kim",
+        "chattingRoomImageName": "chopper",
+        "lastMessage": "Could u send more photos?",
+        "lastDate": "2020-04-08T15:26:34+0900",
+        "unread": true
+    },
+    {
+        "id": 102,
+        "chatName": "claire",
+        "chattingRoomImageName": "claire",
+        "lastMessage": "Hello, there!",
+        "lastDate": "2020-04-10T10:17:03+0900",
+        "unread": false
+    },
+]

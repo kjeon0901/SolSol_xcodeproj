@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1001,
+        "userName": "chimchim",
+        "profileImageName": "chimchim",
+        "description": "One of my favorite dress.\nDo you want #vintage style? get it!\nYou can find the bag matched in my post too!\n.\n.",
+        "hashtag": "#chanel #looklikeamodel #ootd #chanel2019springedition #lace #dress #springiscoming",
+        "following": true,
+        "photoNames": [
+            "chimchim1",
+            "chimchim2",
+            "chimchim3"
+        ],
+        "videoName": "",
+        "likes": 902,
+        "createDate": "36 min"
+    },
+    {
+        "id": 1002,
+        "userName": "luna_closet",
+        "profileImageName": "chilkoottrail",
+        "description": "Need a dress for your night out?\nUnique and elegant, you will definitely stand out in the crowd.\nTrust me, I did :)",
+        "hashtag": "#versace #taylorswift #nightoutdress #ootd #goldenglovegown",
+        "following": true,
+        "photoNames": [
+            "luna_closet1",
+            "luna_closet2",
+        ],
+        "videoName": "ts",
+        "likes": 765,
+        "createDate": "1 hour"
+    },
+    {
+        "id": 1003,
+        "userName": "iamyourlove",
+        "profileImageName": "silversalmoncreek",
+        "description": "My extreme sports bicycle.\nI absolutely love it and I’m sure you will too!\nRode it during 2019 Red Bull Rampage Competition.",
+        "hashtag": "#mathoffman #extremesportsbicycle #redbullrampagne2019 #mountainbicycle",
+        "following": false,
+        "photoNames": [
+            "iamyourlove"
+        ],
+        "videoName": "math",
+        "likes": 398,
+        "createDate": "1 hour"
+    }
+
+]

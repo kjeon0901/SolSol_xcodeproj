@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "userId": "chopper_kim",
+        "userName": "chopper",
+        "message": "followed you!",
+        "createDate": "2020-08-28T15:26:34+0900"
+    },
+    {
+        "id": 2,
+        "userId": "empty_joonhui",
+        "userName": "empty",
+        "message": "requested to rent your SolSol!",
+        "createDate": "2020-08-25T10:17:03+0900"
+    },
+    {
+        "id": 3,
+        "userId": "sooaap",
+        "userName": "sooaap",
+        "message": "followed you!",
+        "createDate": "2020-08-22T11:13:13+0900"
+    },
+    {
+        "id": 4,
+        "userId": "empty_joonhui",
+        "userName": "empty",
+        "message": "requested to buy our SolSol!",
+        "createDate": "2020-08-22T09:47:18+0900"
+    },
+    {
+        "id": 5,
+        "userId": "claire",
+        "userName": "claire",
+        "message": "followed you!",
+        "createDate": "2020-08-11T14:26:26+0900"
+    },
+    {
+        "id": 6,
+        "userId": "chopper_kim",
+        "userName": "chopper",
+        "message": "requested to rent your SolSol!",
+        "createDate": "2020-08-02T16:42:35+0900"
+    },
+    {
+        "id": 7,
+        "userId": "claire",
+        "userName": "claire",
+        "message": "requested to buy your SolSol!",
+        "createDate": "2020-07-25T18:31:27+0900"
+    },
+    {
+        "id": 8,
+        "userId": "empty_joonhui",
+        "userName": "empty",
+        "message": "requested to rent your SolSol!",
+        "createDate": "2020-06-29T09:10:17+0900"
+    },
+    {
+        "id": 9,
+        "userId": "chopper_kim",
+        "userName": "chopper",
+        "message": "requested to buy your SolSol!",
+        "createDate": "2020-06-24T10:17:03+0900"
+    },
+    {
+        "id": 10,
+        "userId": "sooaap",
+        "userName": "sooaap",
+        "message": "requested to rent your SolSol!",
+        "createDate": "2020-06-16T10:17:03+0900"
+    },
+
+]

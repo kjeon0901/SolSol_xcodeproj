@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1001,
+        "userName": "chimchim",
+        "userId": "chimmy_418",
+        "membership": "gold",
+        "profileImageName": "chimchim",
+        "description": "❤️🧡💚💙💜🤎\nhttps://youtu.be/DWHKejydfqU",
+        "anticipatedRevenue": 206.90,
+        "myItems": [
+            {"id": 1, "photoName": "chimchimprofile1", "status": "none"},
+            {"id": 2, "photoName": "chimchimprofile4", "status": "sold"},
+            {"id": 3, "photoName": "chimchimprofile5", "status": "none"},
+            {"id": 4, "photoName": "chimchimprofile6", "status": "renting"},
+            {"id": 5, "photoName": "chimchimprofile7", "status": "none"},
+            {"id": 6, "photoName": "chimchimprofile9", "status": "sold"},
+            {"id": 7, "photoName": "chimchimprofile10", "status": "renting"},
+            {"id": 8, "photoName": "chimchimprofile12", "status": "sold"},
+            {"id": 9, "photoName": "chimchimprofile13", "status": "none"},
+            {"id": 10, "photoName": "chimchimprofile13", "status": "sold"},
+        ],
+        "follower": 31023,
+        "following": 23,
+        "beforeDeposit": 12,
+        "preparing": 2,
+        "shipping": 3,
+        "delivered": 19
+    },
+    {
+        "id": 1002,
+        "userName": "Richard",
+        "userId": "RICHard",
+        "membership": "silver",
+        "profileImageName": "richy",
+        "description": "IT / Game / Travel\nhttps://youtu.be/DWHkejydfqU",
+        "anticipatedRevenue": 542.09,
+        "myItems": [
+            {"id": 1, "photoName": "chimchimprofile1", "status": "none"},
+            {"id": 2, "photoName": "chimchimprofile4", "status": "sold"},
+            {"id": 3, "photoName": "chimchimprofile5", "status": "none"},
+            {"id": 4, "photoName": "chimchimprofile6", "status": "renting"},
+            {"id": 5, "photoName": "chimchimprofile7", "status": "none"},
+            {"id": 6, "photoName": "chimchimprofile9", "status": "sold"},
+            {"id": 7, "photoName": "chimchimprofile10", "status": "renting"},
+            {"id": 8, "photoName": "chimchimprofile12", "status": "sold"},
+            {"id": 9, "photoName": "chimchimprofile13", "status": "none"},
+            {"id": 10, "photoName": "chimchimprofile13", "status": "sold"},
+        ],
+        "follower": 15,
+        "following": 33,
+        "beforeDeposit": 1428,
+        "preparing": 58,
+        "shipping": 97,
+        "delivered": 304
+    }
+
+]
